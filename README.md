@@ -1,6 +1,8 @@
 # Universal Joint Kinematic Analysis
 
-![Mechanism Motion](motion/universal_joint_motion.gif)
+<p align="center">
+  <img src="slider_crank_motion.gif" width="600"/>
+</p>
 
 ## Overview
 
@@ -90,11 +92,11 @@ This behavior is a fundamental limitation of single universal joints.
 
 α = 10°
 
-![Velocity10](plots/velocity_creo_10deg.png)
+![Velocity10](plots/velocity_10deg.png)
 
 α = 30°
 
-![Velocity30](plots/velocity_creo_30deg.png)
+![Velocity30](plots/velocity_30deg.png)
 
 ---
 
@@ -102,11 +104,11 @@ This behavior is a fundamental limitation of single universal joints.
 
 α = 10°
 
-![Accel10](plots/acceleration_creo_10deg.png)
+![Accel10](plots/acceleration_10deg.png)
 
 α = 30°
 
-![Accel30](plots/acceleration_creo_30deg.png)
+![Accel30](plots/acceleration_30deg.png)
 
 ---
 
